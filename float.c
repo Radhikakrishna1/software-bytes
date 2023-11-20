@@ -1,4 +1,4 @@
-/*
+ /*
 The integer datatype in C is used to store the integer numbers(any number including positive, negative and zero without decimal part).
  Octal values, hexadecimal values, and decimal values can be stored in int data type in C. 
 
@@ -28,7 +28,7 @@ float var_name;
 */
 
 //C program to demonstrate Sum of Int and Float
-//C using Sum of integer anf float data type 
+//C using Sum of integer and float data type 
  #include <stdio.h>
 int main()
 {
